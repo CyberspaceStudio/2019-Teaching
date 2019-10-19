@@ -1,0 +1,18 @@
+
+<html>
+<body style="background-color:AntiqueWhite">
+
+<h4 style="tetx-align：center">This is a easy html </h4>
+<a href="http://bilibili.com.cn">This is a interesting link.I think we can have a look.</a>
+<hr/>
+<img src="E:\html\images\gouma.jpg" width="480" height="200" />
+
+<! -- This is a comment .We should improve something.
+                                                                                            -- >
+<p style="font-family:verdana;color:blue;font-size:20px;">
+狗妈赛高！！<br />
+DD斩首！！
+</p>
+
+</body>
+</html>
